@@ -13,7 +13,7 @@ $database['default'] = [
     'port'          => 3306,        //端口
     'dbname'        => 'onepager',      //库名
     'username'      => 'onepager',      //用户名
-    'passwd'        => 'Q4Gv7AOzyt6Pbpmt',          //密码
+    'passwd'        => '**********',          //密码
     'charset'       => 'utf8',      //字符编码
     'persistent'    => false        //是否启用持久连接 （ true | false ）
 ];
